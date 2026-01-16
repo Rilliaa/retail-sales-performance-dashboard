@@ -130,6 +130,4 @@ Dashboard ini menjawab beberapa pertanyaan bisnis utama:
 
 Proyek ini dibuat untuk **keperluan pembelajaran dan portofolio**.  
 Dataset bersifat sintetis dan tidak merepresentasikan data bisnis nyata.
-```
 
----
