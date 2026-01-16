@@ -1,6 +1,6 @@
 
 # 📊 Retail Sales Performance Dashboard
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/Dashboard.png)
 
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-D83B01?style=flat&logo=microsoft-excel&logoColor=white)]()
 [![Power Pivot](https://img.shields.io/badge/Power%20Pivot-217346?style=flat)]()
