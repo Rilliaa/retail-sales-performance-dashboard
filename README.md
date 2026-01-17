@@ -59,13 +59,25 @@ The dashboard addresses key business questions such as:
 
 ---
 
-## 📊 Key Insights Snapshot
+## 📌 Dashboard Highlights
 
-![Key Insights](images/key_insights_annotated.png)
+- **Revenue Gap Monitoring (Gross vs Net)**  
+  A total revenue gap of approximately **~15%** indicates a relatively healthy business condition, yet it still requires close monitoring—particularly regarding discount dependency and return impacts.
 
-- A small subset of stores contributes **~80% of total nett revenue**.
-- Revenue peaks occur during mid-year periods, indicating **seasonal demand patterns**.
-- The gap between gross and nett revenue highlights the **financial impact of returns and discounts**.
+- **Return Transaction Impact**  
+  The return rate reaches **9.92%**, contributing to around **⅔ of the total revenue gap**, highlighting a major issue related to product quality and customer expectation mismatches.
+
+- **Revenue Growth Stability**  
+  Year-over-year net revenue growth appears **unstable**, with peak growth reaching only around **±4%**, signaling the need for a more sustainable growth strategy.
+
+- **Seasonal & Monthly Sales Patterns**  
+  Sales consistently peak during **Q2–Q3 (May–July)**, while **Q1 and Q4** show weaker performance, presenting opportunities for inventory optimization and targeted promotional campaigns.
+
+- **Product & Store Contribution Analysis**  
+  A small subset of products and stores contributes approximately **80% of total net revenue**, supporting a focused strategy based on the Pareto principle.
+
+- **Data Quality Observations**  
+  Approximately **7,630 invalid transactions** were identified, emphasizing the importance of system audits and input data validation to improve analytical reliability.
 
 ---
 
@@ -107,13 +119,26 @@ Dashboard ini menjawab beberapa pertanyaan bisnis utama:
 
 ---
 
-## 📌 Highlight Dashboard
+## 📌 Dashboard Highlights
 
-- KPI Pendapatan Sepanjang Waktu
-- Analisis tren dan pertumbuhan revenue
-- Perbandingan gross dan nett revenue
-- Performa produk musiman
-- Analisis kontribusi toko berbasis prinsip Pareto (80/20)
+- **Revenue Gap Monitoring (Gross vs Nett)**  
+  Total revenue gap sebesar **~15%** menunjukkan kondisi bisnis yang relatif sehat namun tetap memerlukan pengawasan, khususnya terhadap ketergantungan diskon dan dampak retur.
+
+- **Return Transaction Impact**  
+  Return rate mencapai **9.92%**, menyumbang sekitar **⅔ dari total revenue gap**, mengindikasikan isu utama pada kualitas produk dan ketidaksesuaian ekspektasi pelanggan.
+
+- **Revenue Growth Stability**  
+  Nett revenue growth year-over-year tergolong **tidak stabil**, dengan pertumbuhan tertinggi hanya di kisaran **±4%**, menandakan perlunya strategi pertumbuhan yang lebih berkelanjutan.
+
+- **Seasonal & Monthly Sales Pattern**  
+  Puncak penjualan konsisten terjadi pada **Q2–Q3 (Mei–Juli)**, sementara **Q1 dan Q4** menunjukkan performa lebih rendah, membuka peluang untuk optimalisasi stok dan targeted promotions.
+
+- **Product & Store Contribution Analysis**  
+  Sejumlah kecil produk dan toko menyumbang sekitar **80% dari total nett revenue**, mendukung penerapan strategi fokus berbasis prinsip Pareto.
+
+- **Data Quality Observation**  
+  Ditemukan **±7,630 transaksi tidak valid**, menegaskan pentingnya audit sistem pencatatan dan penerapan validasi input data untuk meningkatkan keandalan analisis.
+
 
 ---
 
