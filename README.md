@@ -31,25 +31,6 @@ The dashboard addresses key business questions such as:
 
 ---
 
-## 📌 Dashboard Highlights
-
-- **All-Time Revenue KPIs**  
-  Gross Revenue, Nett Revenue, Revenue Gap, Returned Transactions, and Units Sold.
-
-- **Revenue Trend & Growth Analysis**  
-  Combined column-line visualization for nett revenue and growth percentage.
-
-- **Gross vs Nett Revenue Comparison**  
-  Clear illustration of revenue loss impact over time.
-
-- **Seasonal Product Performance**  
-  Horizontal bar analysis to identify dominant seasonal categories.
-
-- **Top Products & Stores Contribution**  
-  Focused on entities contributing approximately **80% of total nett revenue**.
-
----
-
 ## 🛠️ Tools & Technologies
 
 - **Microsoft Excel**
